@@ -8,10 +8,10 @@
 <students>
    <student>
       <firstname>石田</firstname>
-      <lastdname>基広</lastdname>
+      <lastname>基広</lastname>
    </student>
    <student>
       <firstname>真也</firstname>
-      <lastdname>瓜生</lastdname>
+      <lastname>瓜生</lastname>
    </student>
  </students>
