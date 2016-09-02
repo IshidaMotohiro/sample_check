@@ -6,12 +6,20 @@
     <!ELEMENT lastname (#PCDATA)>
 ]>
 <students xmlns="http://rmecab.jp" >
-   <student>
+     <student>
       <firstname>基広</firstname>
       <lastname>石田</lastname>
    </student>
    <student>
+      <firstname>太祐</firstname>
+      <lastname>市川</lastname>
+   </student>
+   <student>
       <firstname>真也</firstname>
       <lastname>瓜生</lastname>
+   </student>
+   <student>
+      <firstname>啓明</firstname>
+      <lastname>湯谷</lastname>
    </student>
  </students>
