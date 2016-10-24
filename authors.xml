@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE students [
+<!DOCTYPE member [
   <!ELEMENT member (author) >
     <!ELEMENT author (firstname, lastname) >
     <!ELEMENT firstname (#PCDATA)>
