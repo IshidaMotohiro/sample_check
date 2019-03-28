@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE students [
+  <!ELEMENT students (student) >
+    <!ELEMENT student (firstname, lastname) >
+    <!ELEMENT firstname (#PCDATA)>
+    <!ELEMENT lastname (#PCDATA)>
+]>
+<students>
+   <student>
+      <firstname>基広</firstname>
+      <lastnam>石田</lastnam>
+   </student>
+   <student>
+      <firstname>真也</firstname>
+      <lastname>瓜生</lastname>
+   </student>
+</students>
